@@ -1,0 +1,13 @@
+print("\nFirst 5 rows of the dataset:")
+print(df.head())
+print("\nTotal number of samples:", df.shape[0])
+
+plt.figure(figsize=(10, 5))
+sns.countplot(x='species', data=df, palette='pastel')
+plt.title('Distribution of Iris Species')
+plt.xlabel('Species')
+plt.ylabel('Count')
+plt.tight_layout()
+plt.show()
+
+print("As we can see, there are 3 species of iris flowers with equal sample sizes.")
