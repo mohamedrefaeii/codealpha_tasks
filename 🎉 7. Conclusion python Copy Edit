@@ -1,0 +1,3 @@
+print("Well done! The model is accurate and ready to classify any Iris flower.")
+print("\nYou can try modifying the inputs or using different algorithms for further experimentation!")
+print("Special thanks to everyone who supported me on this data science journey.")
