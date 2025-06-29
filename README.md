@@ -1,4 +1,3 @@
-Of course! Here's a **detailed and professional README** file in English for your **Iris Flower Classification Project** using a **Decision Tree**. You can save this as `README.md` if you're uploading the project to GitHub.
 
 ---
 
