@@ -1,0 +1,6 @@
+print("Welcome to the Iris Flower Classification Project!")
+
+print("\nLoading the Iris dataset...")
+url = "https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv"
+df = pd.read_csv(url)
+print("Dataset loaded successfully!")
