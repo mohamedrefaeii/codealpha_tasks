@@ -148,6 +148,3 @@ If you have any questions or suggestions, feel free to reach out via:
 > “The best way to learn machine learning is by building projects.” – keep experimenting and improving!
 
 ---
-
-لو حابب أترجمه أو أعمل نسخة عربية كمان للناس اللي ممكن تزور المشروع، قولّي وأنا أجهزها ✨
-تحب أضيف ملف `requirements.txt` كمان؟
